@@ -14,7 +14,7 @@ header{
     background-color: #2a607c;
     color: #ffffff;
 }
-header h1 {
+header h1 {/**/
     display: inline-block;
     font-size: 48px;
 }
@@ -53,7 +53,7 @@ figure img{
     background-size: cover;
     background-position: center;
 }
-.float-left {
+.float-left {/**/
     float: left;
     margin-right: 25px;
 }
