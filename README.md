@@ -11,7 +11,6 @@ The project was carried out using HTML5, CSS, and VScode as our IDE. I used Gith
 and git to add,commit, and push changes to the public repository.
 
 
-![App Screenshot](./assets/images/Refactored Website.png)
-
+![Alt text](./assets/images/Refactored Website.png?raw=true)
 
 https://dominiscus1.github.io/Refactor-Project1/
